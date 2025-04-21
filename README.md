@@ -1,12 +1,12 @@
-100xdevs Cohort 3 Assignments - 
+100xdevs Cohort 3 Assignments - ✅
 
 # 📝 Assignment Progress Checklist
 
 ## Week 1 - CSS Layouts
-- [ ] 0-horizontal-align
-- [ ] 1-vertical-align
-- [ ] 2-flex-layout
-- [ ] 3-grid-layout
+- [✅] 0-horizontal-align
+- [✅] 1-vertical-align
+- [✅] 2-flex-layout
+- [✅] 3-grid-layout
 - [ ] 4-more-complicated-grid
 - [ ] 5-vscode-bottombar
 - [ ] 6-vs-code-landing-page
