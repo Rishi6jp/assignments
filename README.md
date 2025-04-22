@@ -1,4 +1,4 @@
-100xdevs Cohort 3 Assignments - ✅
+100xdevs Cohort 3 Assignments 
 
 # 📝 Assignment Progress Checklist
 
@@ -83,3 +83,11 @@
 ## Week 19 - Next.js App
 - [ ] Signup flow
 - [ ] User route
+
+---
+
+[✅] = Done
+[🕵️] = Review pending
+[🚧] = In progress
+[❌] = Skipped (optional)
+
