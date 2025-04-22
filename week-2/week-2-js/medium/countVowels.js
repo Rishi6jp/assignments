@@ -6,6 +6,15 @@
 */
 
 function countVowels(str) {
+  str = str.toLowerCase()
+  vowel = ['a', 'e', 'i', 'o', 'u']
+  let count = 0
+  for(let c of str){
+    if(c in vowel){
+      count += 1
+    }
+  }
+  return count
     // Your code here
 }
 

@@ -4,7 +4,10 @@
 */
 
 function isPalindrome(str) {
-  return true;
+  if(str == str.split().reverse().join()){
+    return true
+  }
+  return false;
 }
 
 module.exports = isPalindrome;
