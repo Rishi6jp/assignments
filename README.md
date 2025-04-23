@@ -28,7 +28,7 @@
 - [✅] week-2-async-js/easy/4-write-to-file.md
 - [✅] week-2-async-js/medium/1-file-cleaner.md
 - [✅] week-2-async-js/medium/2-clock.md
-- [ ] week-2-async-js/hard/1-promisify-setTimeout.js
+- [✅] week-2-async-js/hard/1-promisify-setTimeout.js
 - [ ] week-2-async-js/hard/2-sleep-completely.js
 - [ ] week-2-async-js/hard/3-promise-all.js
 - [ ] week-2-async-js/hard/4-promise-chain.js
