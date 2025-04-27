@@ -86,8 +86,8 @@
 
 ---
 
-[✅] = Done
-[🕵️] = Review pending
-[🚧] = In progress
+[✅] = Done | 
+[🕵️] = Review pending | 
+[🚧] = In progress | 
 [❌] = Skipped (optional)
 
