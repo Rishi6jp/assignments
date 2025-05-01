@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+
+        }
+        .main{
+            width: 1200px;
+            display: grid;
+            gap: 10px;
+            grid-template-columns: 1fr 2fr;
+
+        }
+        .left{
+            background-color: red;
+        }
+        .left h1{
+            display: flex;
+            justify-content: center;
+        }
+        .right{
+            background-color: blue;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+        .text{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            font-weight:bolder ;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="main">
+            <div class="left">
+                <h1>Left</h1>
+                <div class="text">
+                    <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                <p>text</p>
+                </div>
+                
+            </div>
+            <div class="right">
+                <h1>Col 1</h1>
+                <h1>Col 2</h1>
+                <h1>Col 3</h1>
+                <h1>Col 1</h1>
+                <h1>Col 2</h1>
+                <h1>Col 3</h1>
+                <h1>Col 1</h1>
+                <h1>Col 2</h1>
+                <h1>Col 3</h1>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>

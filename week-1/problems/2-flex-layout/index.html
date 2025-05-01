@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            display: flex;
+            justify-content: center;
+        }
+        .root{
+            display: flex;
+            width: 1200px;
+        }
+        #left{
+            background: red;
+            flex-grow: 1;
+        }
+        #right{
+            background: blue;
+            flex-grow: 2;
+        }
+    </style>
+</head>
+<body>
+    <div class="root">
+        <div id="left">
+            <h1>Left</h1>
+        </div>
+        <div id="right">
+            <h1>Right</h1>
+        </div>
+        
+    </div>
+</body>
+</html>
