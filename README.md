@@ -12,7 +12,7 @@
 - [ ] 6-vs-code-landing-page
 
 ## Week 2 - JavaScript Basics
-- [ ] week-2-js/easy/anagram.js
+- [✅] week-2-js/easy/anagram.js
 - [ ] week-2-js/easy/expenditure-analysis.js
 - [ ] week-2-js/easy/findLargestElement.js
 - [ ] week-2-js/medium/countVowels.js
@@ -22,10 +22,10 @@
 - [ ] week-2-js/hard/todo-list.js
 
 ## Week 2 - Async JS
-- [ ] week-2-async-js/easy/1-counter.md
-- [ ] week-2-async-js/easy/2-counter.md
-- [ ] week-2-async-js/easy/3-read-from-file.md
-- [ ] week-2-async-js/easy/4-write-to-file.md
+- [✅] week-2-async-js/easy/1-counter.md
+- [✅] week-2-async-js/easy/2-counter.md
+- [✅] week-2-async-js/easy/3-read-from-file.md
+- [✅] week-2-async-js/easy/4-write-to-file.md
 - [ ] week-2-async-js/medium/1-file-cleaner.md
 - [ ] week-2-async-js/medium/2-clock.md
 - [ ] week-2-async-js/hard/1-promisify-setTimeout.js
