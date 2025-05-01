@@ -13,9 +13,9 @@
 
 ## Week 2 - JavaScript Basics
 - [✅] week-2-js/easy/anagram.js
-- [ ] week-2-js/easy/expenditure-analysis.js
-- [ ] week-2-js/easy/findLargestElement.js
-- [ ] week-2-js/medium/countVowels.js
+- [✅] week-2-js/easy/expenditure-analysis.js
+- [✅] week-2-js/easy/findLargestElement.js
+- [✅] week-2-js/medium/countVowels.js
 - [ ] week-2-js/medium/palindrome.js
 - [ ] week-2-js/medium/times.js
 - [ ] week-2-js/hard/calculator.js
