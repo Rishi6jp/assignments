@@ -9,7 +9,7 @@
 - [✅] 3-grid-layout
 - [✅] 4-more-complicated-grid
 - [✅] 5-vscode-bottombar
-- [ ] 6-vs-code-landing-page
+- [✅] 6-vs-code-landing-page
 
 ## Week 2 - JavaScript Basics
 - [✅] week-2-js/easy/anagram.js
