@@ -35,7 +35,7 @@
 
 ## Week 3 - JS Projects
 - [✅] easy/bg-color-changer
-- [ ] easy/quiz-app
+- [🕵️] easy/quiz-app
 - [ ] easy/The-Pokémon
 - [ ] medium/Form-Builder
 - [ ] hard/taskify
