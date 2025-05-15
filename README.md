@@ -18,8 +18,8 @@
 - [✅] week-2-js/medium/countVowels.js
 - [✅] week-2-js/medium/palindrome.js
 - [✅] week-2-js/medium/times.js
-- [ ] week-2-js/hard/calculator.js
-- [ ] week-2-js/hard/todo-list.js
+- [✅] week-2-js/hard/calculator.js
+- [✅] week-2-js/hard/todo-list.js
 
 ## Week 2 - Async JS
 - [✅] week-2-async-js/easy/1-counter.md
