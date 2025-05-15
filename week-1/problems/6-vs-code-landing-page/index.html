@@ -17,6 +17,43 @@
             a:hover{
                 color: #c3d0e5;
             }
+            button:hover{
+                background-color: rgb(209, 172, 70) !important;
+                cursor: pointer;
+            }
+            .root{
+            display: flex;
+            justify-content: center;
+            font: roboto;
+        }
+        .container{
+            background-color: #0d1117;
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 30px;
+            width: 1200px;
+            color: #9fb1d1;
+            padding: 10px 40px;
+            align-items: center;
+            text-align: left;
+            padding-left: 180;
+        }
+        .right{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+        h1{
+            color: #c3d0e5
+        }
+        .right > div{
+            display: flex;
+            justify-content: left;
+            align-items: center;
+            gap: 8px;
+        }
+        .right > div > img{
+            height: 40px;
+        }
         </style>
     </head>
     <body>
@@ -39,24 +76,82 @@
                 </div>
                 <div style="display: flex; align-items: center; position: relative">
                     <img style="position: absolute; left: 10px; " src="https://code.visualstudio.com/assets/icons/search-dark.svg" alt="">
-                    <input type="text" style="background-color: #0d1117; border: solid; padding: 10px 10px 10px 35px; border-color: #c3d0e5; border-width: 1pt; margin-right: 15;" placeholder="Searh Docs">
+                    <input type="text" style="background-color: #0d1117; border: solid; padding: 10px 10px 10px 35px; border-color: #c3d0e5; border-width: 1pt; margin-right: 15; color: white" placeholder="Searh Docs">
                     <button style="background-color: #0078d4; color: white; padding: 15px 15px;font-size: medium; border-radius: 10px; border: none"><b>Download</b></button>
                 </div>
             </div>
-            <div style="font-size: small;">
+            <div style="font-size: small; margin-bottom: 20;">
                 <span style="color: #0078d4">Version 1.92</span>
                 <span style="color: #9ba3aa">is onw available Read about the new featuers and fixes from July</span>
             </div>
-            <div style="display: flex; justify-content: center; align-items: center; margin-top: 80">
-                <div style="display: flex; flex-direction: column; margin-right: 40px;">
-                    <div style="border: 1px solid #9ba3aa; color: #9ba3aa; display: flex; overflow: hidden;">Free. Built on open source. Runs anywhere</div>
-                    <div style="color: white; font-size: 55;font-weight: bold; text-align: left;">Coding Editing.<br>Redefined.</div>
-                    <div><button>Download for MacOS</button></div>
+            <div style="background-color: #10161e ; display: flex; justify-content: center; align-items: center; padding: 80px 0px 80px 0px">
+                <div style="display: flex; flex-direction: column; margin-right: 40px;align-items: left;">
+                    <div style="border: 1px solid #9ba3aa;background-color: #1e232b; color: #9ba3aa; display: flex; padding: 10; border-radius: 20px;padding-left: 15; width: 330px; text-align: center;">Free. Built on open source. Runs anywhere</div>
+                    <div style="color: white; font-size: 45;font-weight: bold; text-align: left; margin: 10 0 10 0">Coding Editing.<br>Redefined.</div>
+                    <button style="padding:15 20 15 20; width: 230;background-color: #0078d4; border-radius: 10px; border: none; color: white; font-size: 18; font-weight: bold;">Download for MacOS</button>
                 </div>
                 <div>
                     <img style="height: 450px;" src="./vs.png" alt="">
                 </div>
             </div>
+            <div class="root">
+        <div class="container">
+            <div class="left">
+                <h1 style="color: white; font-size: x-large; ">Code in any language</h1>
+                <p style="line-height: 1.4;">VS Code supports almost every major programming language. Several ship in the box, like JavaScript, TypeScript, CSS, and HTML, but extensions for others can be found in the VS Code Marketplace.</p>
+            </div>
+            <div class="right">
+                <div>
+                    <img src="https://code.visualstudio.com/assets/home/language-js.png" alt="">
+                    <p>JavaScript</p>
+                </div>
+                <div>
+                    <img src="https://code.visualstudio.com/assets/home/language-ts.png" alt="">
+                    <p>TypeScript</p>
+                </div>
+                <div>
+                    <img src="	https://code.visualstudio.com/assets/home/language-python.png" alt="">
+                    <p>Python</p>
+                </div>
+                <div>
+                    <img src="https://code.visualstudio.com/assets/home/language-cs.png" alt="">
+                    <p>C#</p>
+                </div>
+                <div>
+                    <img src="https://code.visualstudio.com/assets/home/language-cpp.png" alt="">
+                    <p>C++</p>
+                </div>
+                <div>
+                    <img src="https://code.visualstudio.com/assets/home/language-html.png" alt="">
+                    <p>HTML</p>
+                </div>
+                <div>
+                    <img src="https://code.visualstudio.com/assets/home/language-java.png" alt="">
+                    <p>Java</p>
+                </div>
+                <div>
+                    <img src="https://code.visualstudio.com/assets/home/language-json.png" alt="">
+                    <p>JSON</p>
+                </div>
+                <div>
+                    <img src="https://code.visualstudio.com/assets/home/language-php.png" alt="">
+                    <p>PHP</p>
+                </div>
+                <div>
+                    <img src="	https://code.visualstudio.com/assets/home/language-markdown.png" alt="">
+                    <p>Markdown</p>
+                </div>
+                <div>
+                    <img src="https://code.visualstudio.com/assets/home/language-powershell.png" alt="">
+                    <p>Powershell</p>
+                </div>
+                <div>
+                    <img src="	https://code.visualstudio.com/assets/home/language-yaml.png" alt="">
+                    <p>YAML</p>
+                </div>
+            </div>
+        </div>
+    </div>
         </div>
     </body>
 </html>
