@@ -17,7 +17,7 @@
 - [✅] week-2-js/easy/findLargestElement.js
 - [✅] week-2-js/medium/countVowels.js
 - [✅] week-2-js/medium/palindrome.js
-- [ ] week-2-js/medium/times.js
+- [✅] week-2-js/medium/times.js
 - [ ] week-2-js/hard/calculator.js
 - [ ] week-2-js/hard/todo-list.js
 
@@ -34,7 +34,7 @@
 - [ ] week-2-async-js/hard/4-promise-chain.js
 
 ## Week 3 - JS Projects
-- [ ] easy/bg-color-changer
+- [✅] easy/bg-color-changer
 - [ ] easy/quiz-app
 - [ ] easy/The-Pokémon
 - [ ] medium/Form-Builder
