@@ -12,5 +12,6 @@
 
 ### Don't copy UI as it is, only take reference from it.
 
+- The UI should resemble the example shown below..
 
 
